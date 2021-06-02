@@ -38,7 +38,7 @@ function findSubstring(s, words) {
             result.push(l);
         }
     }
-    console.log("result==>", result);
+    //   console.log("result==>", result);
     return result;
 }
 findSubstring("lingmindraboofooowingdingbarrwingmonkeypoundcake", ["fooo", "barr", "wing", "ding", "wing"]);
