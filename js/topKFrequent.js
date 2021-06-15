@@ -25,5 +25,6 @@ function topKFrequent(nums, k) {
     console.log(result);
     return result;
 }
-var nums = [-1, -1, -1, 2, -2, -3], k = 2;
-topKFrequent(nums, k);
+// let nums = [-1, -1, -1, 2, -2, -3],
+//   k = 2;
+// topKFrequent(nums, k);
